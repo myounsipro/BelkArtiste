@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/belkartiste/static/css/main.f855e6bc.css",
-    "main.js": "/belkartiste/static/js/main.917f3871.js",
-    "static/js/787.2e57226c.chunk.js": "/belkartiste/static/js/787.2e57226c.chunk.js",
-    "index.html": "/belkartiste/index.html",
-    "main.f855e6bc.css.map": "/belkartiste/static/css/main.f855e6bc.css.map",
-    "main.917f3871.js.map": "/belkartiste/static/js/main.917f3871.js.map",
-    "787.2e57226c.chunk.js.map": "/belkartiste/static/js/787.2e57226c.chunk.js.map"
+    "main.css": "/BelkArtiste/static/css/main.f855e6bc.css",
+    "main.js": "/BelkArtiste/static/js/main.aed7511b.js",
+    "static/js/787.2e57226c.chunk.js": "/BelkArtiste/static/js/787.2e57226c.chunk.js",
+    "index.html": "/BelkArtiste/index.html",
+    "main.f855e6bc.css.map": "/BelkArtiste/static/css/main.f855e6bc.css.map",
+    "main.aed7511b.js.map": "/BelkArtiste/static/js/main.aed7511b.js.map",
+    "787.2e57226c.chunk.js.map": "/BelkArtiste/static/js/787.2e57226c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.917f3871.js"
+    "static/js/main.aed7511b.js"
   ]
 }
