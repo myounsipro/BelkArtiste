@@ -1,25 +1,26 @@
 import React from 'react'; 
 import logo from './../../logo.svg';
-import './Contact.css';
+import './Footer.css';
 
-function Contact (){ 
+function Footer (){ 
     return (
-        <div className="Contact">
-          <header className="Contact-header">
-            <img src={logo} className="Contact-logo" alt="logo" />
+        <div className="Footer">
+          <header className="Footer-header">
+            <img src={logo} className="Footer-logo" alt="logo" />
             <p>
               Belcaricature
             </p>
             <a
-              className="Contact-link"
+              className="Footer-link"
               href="https://www.facebook.com/people/belkacem-caricatures/100050603164367/"
               target="_target"
               rel="noopener noreferrer"
             >
-              Contact Me
+              Footer
             </a>
           </header>
         </div>
       );
     }
-export default Contact;
+  
+export default Footer;

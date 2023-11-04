@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/BelkArtiste/static/css/main.eef2d4b2.css",
-    "main.js": "/BelkArtiste/static/js/main.695cbee8.js",
+    "main.css": "/BelkArtiste/static/css/main.700b0acd.css",
+    "main.js": "/BelkArtiste/static/js/main.f6140b18.js",
     "static/js/787.2e57226c.chunk.js": "/BelkArtiste/static/js/787.2e57226c.chunk.js",
     "static/media/logo.svg": "/BelkArtiste/static/media/logo.161290d5e8b4566189c6db3b7105cd68.svg",
     "index.html": "/BelkArtiste/index.html",
-    "main.eef2d4b2.css.map": "/BelkArtiste/static/css/main.eef2d4b2.css.map",
-    "main.695cbee8.js.map": "/BelkArtiste/static/js/main.695cbee8.js.map",
+    "main.700b0acd.css.map": "/BelkArtiste/static/css/main.700b0acd.css.map",
+    "main.f6140b18.js.map": "/BelkArtiste/static/js/main.f6140b18.js.map",
     "787.2e57226c.chunk.js.map": "/BelkArtiste/static/js/787.2e57226c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eef2d4b2.css",
-    "static/js/main.695cbee8.js"
+    "static/css/main.700b0acd.css",
+    "static/js/main.f6140b18.js"
   ]
 }

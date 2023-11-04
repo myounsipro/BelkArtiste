@@ -1,21 +1,21 @@
-.Contact {
+.Footer {
   text-align: center;
 }
 
-.Contact-logo {
+.Footer-logo {
   height: 40vmin;
   pointer-events: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .Contact-logo {
-    animation: Contact-logo-spin infinite 2s linear;
+  .Footer-logo {
+    animation: Footer-logo-spin infinite 1s linear;
   }
 }
 
-.Contact-header {
+.Footer-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 50vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -24,11 +24,11 @@
   color: white;
 }
 
-.Contact-link {
+.Footer-link {
   color: #61dafb;
 }
 
-@keyframes Contact-logo-spin {
+@keyframes Footer-logo-spin {
   from {
     transform: rotate(0deg);
   }
