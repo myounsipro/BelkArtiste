@@ -11,8 +11,8 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
+          href="https://www.facebook.com/people/belkacem-caricatures/100050603164367/"
+          target="_target"
           rel="noopener noreferrer"
         >
           Belkacem YOUNSI
